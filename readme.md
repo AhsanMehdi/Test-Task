@@ -1,0 +1,1 @@
+-A project contains two part one if UI Testing and other is API Testing
